@@ -1,0 +1,10 @@
+HTTP 102 www.gigaom.com /products.html 170.44.47.250
+HTTP 411 www.globalknowledge.com /support.html 215.75.220.15
+HTTP 503 www.cloudera.com /index.html 254.208.148.193
+HTTP 505 console.amazon.com /index.html 76.215.105.105
+HTTP 304 www.globalknowledge.com /support.html 208.31.24.22
+HTTP 301 flume.apache.org /contact.html 122.248.177.79
+HTTP 414 flume.apache.org /services.html 203.210.79.207
+HTTP 426 hadoop.apache.org /about.html 153.104.212.94
+HTTP 411 console.amazon.com /index.html 109.19.247.93
+HTTP 503 www.infiniteskills.com /services.html 175.165.48.136

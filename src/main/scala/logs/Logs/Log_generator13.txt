@@ -1,0 +1,10 @@
+HTTP 403 www.globalknowledge.com /contact/submit.html 183.244.44.231
+HTTP 304 www.cloudera.com /services.html 143.228.79.96
+HTTP 302 www.globalknowledge.com /support.html 36.225.76.3
+HTTP 204 flume.apache.org /support.html 213.234.201.143
+HTTP 412 console.amazon.com /index.html 27.26.200.176
+HTTP 502 console.amazon.com /contact/submit.html 174.93.252.172
+HTTP 408 flume.apache.org /support.html 225.168.5.52
+HTTP 423 www.infiniteskills.com /about.html 107.172.183.17
+HTTP 226 www.globalknowledge.com /contact/submit.html 42.138.236.158
+HTTP 413 www.infiniteskills.com /services.html 53.165.156.133

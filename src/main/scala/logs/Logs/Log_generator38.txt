@@ -1,0 +1,10 @@
+HTTP 102 www.gigaom.com /contact.html 38.62.236.159
+HTTP 101 www.infiniteskills.com /products.html 32.103.131.20
+HTTP 302 console.amazon.com /index.html 46.108.26.14
+HTTP 409 www.cloudera.com /index.html 192.165.83.120
+HTTP 500 www.cloudera.com /about.html 61.233.172.97
+HTTP 404 www.globalknowledge.com /products.html 161.4.39.200
+HTTP 501 www.gigaom.com /contact/submit.html 220.211.177.70
+HTTP 426 www.infiniteskills.com /services.html 205.207.232.24
+HTTP 409 flume.apache.org /products.html 9.47.116.162
+HTTP 100 www.quicloud.com /support.html 236.169.250.44

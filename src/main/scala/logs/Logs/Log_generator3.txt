@@ -1,0 +1,10 @@
+HTTP 404 www.globalknowledge.com /about.html 164.245.226.178
+HTTP 411 www.infiniteskills.com /contact/submit.html 108.3.196.209
+HTTP 510 www.quicloud.com /contact/submit.html 57.105.56.214
+HTTP 503 www.gigaom.com /contact/submit.html 35.220.136.5
+HTTP 303 flume.apache.org /products.html 237.159.127.225
+HTTP 400 www.cloudera.com /about.html 141.50.65.174
+HTTP 408 www.infiniteskills.com /about.html 79.180.25.201
+HTTP 422 www.cloudera.com /about.html 167.148.251.221
+HTTP 226 flume.apache.org /services.html 110.70.183.212
+HTTP 207 www.infiniteskills.com /about.html 154.130.63.61

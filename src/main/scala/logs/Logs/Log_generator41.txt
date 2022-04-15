@@ -1,0 +1,10 @@
+HTTP 422 www.gigaom.com /index.html 172.10.153.138
+HTTP 501 www.globalknowledge.com /support.html 3.54.212.157
+HTTP 303 hadoop.apache.org /contact/submit.html 78.154.130.82
+HTTP 303 hadoop.apache.org /index.html 26.69.165.51
+HTTP 501 hadoop.apache.org /support.html 124.236.64.241
+HTTP 201 www.quicloud.com /index.html 122.65.116.13
+HTTP 205 console.amazon.com /index.html 253.182.185.38
+HTTP 206 www.infiniteskills.com /contact.html 216.94.254.153
+HTTP 504 www.gigaom.com /about.html 227.7.83.3
+HTTP 402 hadoop.apache.org /index.html 215.171.107.127

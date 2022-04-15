@@ -1,0 +1,10 @@
+HTTP 501 console.amazon.com /services.html 64.133.5.133
+HTTP 500 hadoop.apache.org /index.html 115.115.194.197
+HTTP 301 console.amazon.com /services.html 170.189.8.237
+HTTP 226 www.infiniteskills.com /contact/submit.html 223.196.22.75
+HTTP 226 www.globalknowledge.com /index.html 245.215.85.236
+HTTP 304 www.globalknowledge.com /about.html 136.83.226.24
+HTTP 500 www.cloudera.com /index.html 75.211.180.252
+HTTP 303 flume.apache.org /services.html 53.153.75.42
+HTTP 101 www.quicloud.com /contact/submit.html 76.15.9.151
+HTTP 200 www.gigaom.com /services.html 235.58.108.148

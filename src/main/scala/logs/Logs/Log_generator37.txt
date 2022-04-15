@@ -1,0 +1,10 @@
+HTTP 300 www.gigaom.com /about.html 234.221.137.227
+HTTP 503 console.amazon.com /products.html 44.70.144.247
+HTTP 301 hadoop.apache.org /about.html 209.22.222.22
+HTTP 405 flume.apache.org /services.html 39.48.200.84
+HTTP 412 console.amazon.com /products.html 2.176.174.251
+HTTP 406 www.cloudera.com /products.html 12.206.173.243
+HTTP 505 www.cloudera.com /services.html 197.158.80.12
+HTTP 501 www.gigaom.com /products.html 210.14.163.12
+HTTP 415 www.quicloud.com /services.html 230.40.151.97
+HTTP 302 hadoop.apache.org /contact.html 251.254.65.124

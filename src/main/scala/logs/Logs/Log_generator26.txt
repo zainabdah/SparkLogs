@@ -1,0 +1,10 @@
+HTTP 410 www.globalknowledge.com /contact/submit.html 166.21.100.240
+HTTP 301 flume.apache.org /index.html 38.224.209.128
+HTTP 201 www.cloudera.com /contact/submit.html 217.135.80.70
+HTTP 102 www.cloudera.com /index.html 248.42.151.120
+HTTP 301 hadoop.apache.org /support.html 160.153.125.248
+HTTP 207 www.infiniteskills.com /services.html 177.90.189.34
+HTTP 101 www.gigaom.com /products.html 62.74.83.3
+HTTP 510 www.globalknowledge.com /products.html 173.245.53.161
+HTTP 100 hadoop.apache.org /services.html 245.248.146.229
+HTTP 424 console.amazon.com /contact/submit.html 14.175.205.252

@@ -1,0 +1,10 @@
+HTTP 401 console.amazon.com /index.html 228.84.64.243
+HTTP 505 www.cloudera.com /about.html 194.51.101.78
+HTTP 504 www.quicloud.com /support.html 182.212.31.49
+HTTP 507 www.globalknowledge.com /services.html 225.125.90.253
+HTTP 226 www.cloudera.com /contact.html 230.123.71.95
+HTTP 302 www.cloudera.com /index.html 19.151.137.214
+HTTP 201 www.gigaom.com /services.html 21.26.168.132
+HTTP 422 console.amazon.com /products.html 98.182.133.153
+HTTP 423 flume.apache.org /about.html 1.150.251.157
+HTTP 424 www.globalknowledge.com /index.html 49.16.236.172

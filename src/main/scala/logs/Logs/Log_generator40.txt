@@ -1,0 +1,10 @@
+HTTP 406 console.amazon.com /contact.html 119.202.151.98
+HTTP 100 hadoop.apache.org /services.html 133.96.225.49
+HTTP 422 www.infiniteskills.com /contact.html 117.204.221.207
+HTTP 401 www.globalknowledge.com /contact.html 247.183.20.36
+HTTP 404 console.amazon.com /products.html 225.104.52.139
+HTTP 403 flume.apache.org /support.html 103.206.231.150
+HTTP 413 www.quicloud.com /about.html 159.148.1.123
+HTTP 404 console.amazon.com /about.html 241.121.162.85
+HTTP 423 www.gigaom.com /contact/submit.html 179.174.138.68
+HTTP 100 console.amazon.com /about.html 14.2.236.195

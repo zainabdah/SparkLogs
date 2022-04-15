@@ -1,0 +1,10 @@
+HTTP 200 www.cloudera.com /products.html 221.50.196.139
+HTTP 206 www.cloudera.com /services.html 216.232.16.13
+HTTP 206 flume.apache.org /products.html 137.148.220.228
+HTTP 307 www.gigaom.com /services.html 161.43.7.104
+HTTP 405 hadoop.apache.org /support.html 142.40.148.87
+HTTP 410 www.cloudera.com /products.html 126.70.9.121
+HTTP 300 flume.apache.org /support.html 96.64.69.7
+HTTP 201 www.globalknowledge.com /support.html 168.154.37.15
+HTTP 412 www.cloudera.com /about.html 26.132.169.238
+HTTP 417 www.quicloud.com /contact/submit.html 2.10.148.199

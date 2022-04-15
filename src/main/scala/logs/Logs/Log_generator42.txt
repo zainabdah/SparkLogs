@@ -1,0 +1,10 @@
+HTTP 507 www.cloudera.com /contact.html 41.75.84.147
+HTTP 409 console.amazon.com /services.html 37.38.44.96
+HTTP 207 flume.apache.org /support.html 158.129.138.18
+HTTP 412 www.infiniteskills.com /contact.html 103.77.39.98
+HTTP 401 console.amazon.com /index.html 53.160.223.250
+HTTP 409 www.globalknowledge.com /services.html 186.205.123.195
+HTTP 414 www.quicloud.com /contact/submit.html 240.169.234.167
+HTTP 402 www.quicloud.com /contact.html 84.197.253.82
+HTTP 403 www.quicloud.com /services.html 63.245.49.90
+HTTP 411 www.cloudera.com /index.html 69.249.71.85

@@ -1,0 +1,10 @@
+HTTP 416 console.amazon.com /index.html 172.245.145.1
+HTTP 423 flume.apache.org /products.html 107.66.100.180
+HTTP 407 www.gigaom.com /about.html 229.163.240.209
+HTTP 414 hadoop.apache.org /support.html 147.109.159.60
+HTTP 404 www.infiniteskills.com /support.html 75.1.72.76
+HTTP 304 hadoop.apache.org /contact/submit.html 18.13.201.189
+HTTP 207 flume.apache.org /contact.html 150.60.14.129
+HTTP 300 flume.apache.org /services.html 200.225.2.173
+HTTP 505 www.cloudera.com /contact/submit.html 137.249.52.218
+HTTP 501 www.quicloud.com /products.html 235.76.211.144

@@ -1,0 +1,10 @@
+HTTP 423 www.infiniteskills.com /support.html 144.2.110.173
+HTTP 302 console.amazon.com /contact.html 61.34.27.114
+HTTP 401 www.globalknowledge.com /products.html 231.240.65.34
+HTTP 400 www.gigaom.com /about.html 38.251.58.124
+HTTP 401 www.globalknowledge.com /contact.html 150.200.252.104
+HTTP 400 www.infiniteskills.com /about.html 105.216.225.171
+HTTP 415 www.infiniteskills.com /index.html 25.97.168.61
+HTTP 204 www.infiniteskills.com /about.html 15.250.202.93
+HTTP 206 www.infiniteskills.com /about.html 212.177.122.62
+HTTP 204 www.gigaom.com /products.html 168.49.36.82

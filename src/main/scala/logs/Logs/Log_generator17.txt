@@ -1,0 +1,10 @@
+HTTP 401 www.infiniteskills.com /contact.html 234.117.12.161
+HTTP 416 www.globalknowledge.com /contact.html 112.192.47.96
+HTTP 414 www.quicloud.com /support.html 107.87.127.50
+HTTP 417 www.globalknowledge.com /index.html 241.140.180.216
+HTTP 100 www.infiniteskills.com /products.html 209.156.180.139
+HTTP 304 hadoop.apache.org /index.html 198.63.102.23
+HTTP 204 flume.apache.org /about.html 93.135.107.154
+HTTP 203 hadoop.apache.org /contact.html 106.59.72.57
+HTTP 204 www.cloudera.com /services.html 226.178.87.15
+HTTP 305 www.quicloud.com /contact.html 46.39.20.3

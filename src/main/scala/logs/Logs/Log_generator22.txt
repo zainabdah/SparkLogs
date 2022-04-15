@@ -1,0 +1,10 @@
+HTTP 423 console.amazon.com /contact.html 2.101.44.78
+HTTP 412 www.quicloud.com /about.html 34.203.48.57
+HTTP 410 console.amazon.com /about.html 216.117.106.93
+HTTP 503 www.quicloud.com /services.html 21.236.123.178
+HTTP 202 www.infiniteskills.com /index.html 250.189.114.43
+HTTP 414 www.quicloud.com /support.html 38.180.86.124
+HTTP 203 flume.apache.org /contact.html 241.91.5.148
+HTTP 400 www.infiniteskills.com /support.html 250.12.25.235
+HTTP 504 console.amazon.com /services.html 44.245.49.113
+HTTP 400 flume.apache.org /contact/submit.html 218.174.56.18

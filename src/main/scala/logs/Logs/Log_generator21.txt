@@ -1,0 +1,10 @@
+HTTP 423 flume.apache.org /support.html 228.48.116.40
+HTTP 407 www.quicloud.com /contact/submit.html 225.59.157.2
+HTTP 500 www.quicloud.com /contact/submit.html 65.137.16.59
+HTTP 302 www.gigaom.com /products.html 196.77.38.50
+HTTP 407 www.globalknowledge.com /services.html 59.58.189.121
+HTTP 414 www.globalknowledge.com /services.html 175.27.216.61
+HTTP 301 www.infiniteskills.com /contact.html 210.140.196.63
+HTTP 413 www.infiniteskills.com /products.html 81.119.141.218
+HTTP 304 www.gigaom.com /contact/submit.html 109.183.109.88
+HTTP 503 www.cloudera.com /contact.html 144.151.229.219

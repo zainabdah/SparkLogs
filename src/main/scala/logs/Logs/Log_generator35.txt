@@ -1,0 +1,10 @@
+HTTP 407 console.amazon.com /support.html 16.220.196.213
+HTTP 510 www.infiniteskills.com /services.html 209.138.51.223
+HTTP 510 console.amazon.com /products.html 230.199.143.20
+HTTP 201 console.amazon.com /products.html 98.204.11.3
+HTTP 305 hadoop.apache.org /support.html 58.74.160.224
+HTTP 423 console.amazon.com /contact.html 40.90.63.192
+HTTP 500 www.gigaom.com /about.html 181.146.4.153
+HTTP 411 flume.apache.org /support.html 135.101.15.79
+HTTP 100 www.gigaom.com /services.html 239.108.206.251
+HTTP 206 hadoop.apache.org /contact/submit.html 140.168.252.73

@@ -1,0 +1,10 @@
+HTTP 505 www.gigaom.com /contact.html 202.85.248.62
+HTTP 510 hadoop.apache.org /support.html 82.238.139.215
+HTTP 404 hadoop.apache.org /contact.html 78.217.22.71
+HTTP 417 www.gigaom.com /products.html 174.244.122.75
+HTTP 502 www.quicloud.com /support.html 39.87.133.136
+HTTP 205 www.quicloud.com /about.html 98.2.104.45
+HTTP 302 console.amazon.com /contact/submit.html 150.11.169.29
+HTTP 203 www.globalknowledge.com /contact.html 165.80.20.186
+HTTP 507 hadoop.apache.org /contact.html 70.74.65.54
+HTTP 405 www.gigaom.com /contact/submit.html 58.241.254.231

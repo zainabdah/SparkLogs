@@ -1,0 +1,10 @@
+HTTP 502 www.gigaom.com /services.html 107.65.89.225
+HTTP 300 www.quicloud.com /support.html 207.167.161.227
+HTTP 505 flume.apache.org /support.html 63.249.252.171
+HTTP 413 console.amazon.com /products.html 91.119.26.117
+HTTP 411 www.cloudera.com /support.html 27.71.150.103
+HTTP 422 www.cloudera.com /services.html 132.115.180.23
+HTTP 411 www.cloudera.com /products.html 107.24.8.153
+HTTP 404 www.cloudera.com /about.html 158.4.119.192
+HTTP 102 www.quicloud.com /support.html 229.39.54.90
+HTTP 400 www.quicloud.com /products.html 110.95.78.53

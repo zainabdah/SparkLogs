@@ -1,0 +1,10 @@
+HTTP 416 www.quicloud.com /services.html 10.6.19.127
+HTTP 424 www.quicloud.com /support.html 49.67.170.212
+HTTP 502 console.amazon.com /index.html 19.224.174.104
+HTTP 202 console.amazon.com /services.html 98.131.53.251
+HTTP 202 flume.apache.org /services.html 55.175.123.128
+HTTP 502 www.quicloud.com /contact/submit.html 182.169.141.51
+HTTP 102 console.amazon.com /contact/submit.html 159.181.54.55
+HTTP 401 flume.apache.org /contact/submit.html 114.58.167.13
+HTTP 207 www.globalknowledge.com /about.html 202.49.247.241
+HTTP 401 www.globalknowledge.com /contact/submit.html 78.192.103.207

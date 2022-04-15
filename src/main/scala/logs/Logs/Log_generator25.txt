@@ -1,0 +1,10 @@
+HTTP 203 hadoop.apache.org /about.html 12.166.121.104
+HTTP 202 flume.apache.org /contact.html 170.3.120.57
+HTTP 500 flume.apache.org /support.html 93.122.177.176
+HTTP 201 flume.apache.org /about.html 38.168.49.223
+HTTP 417 hadoop.apache.org /contact.html 29.243.172.162
+HTTP 303 console.amazon.com /about.html 246.196.191.247
+HTTP 303 www.gigaom.com /support.html 148.223.10.146
+HTTP 401 www.infiniteskills.com /contact.html 50.24.109.116
+HTTP 422 hadoop.apache.org /services.html 235.131.202.145
+HTTP 424 www.globalknowledge.com /services.html 57.21.87.47

@@ -1,0 +1,10 @@
+HTTP 304 console.amazon.com /services.html 222.185.24.82
+HTTP 407 www.gigaom.com /services.html 142.131.165.246
+HTTP 417 www.cloudera.com /products.html 173.41.139.60
+HTTP 413 flume.apache.org /about.html 116.213.141.159
+HTTP 404 www.quicloud.com /index.html 233.231.151.228
+HTTP 404 www.infiniteskills.com /services.html 47.187.119.25
+HTTP 504 www.quicloud.com /contact.html 174.132.245.112
+HTTP 417 www.quicloud.com /services.html 179.24.20.95
+HTTP 504 console.amazon.com /index.html 212.60.253.190
+HTTP 201 www.cloudera.com /services.html 95.42.114.243

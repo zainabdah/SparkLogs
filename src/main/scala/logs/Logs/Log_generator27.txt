@@ -1,0 +1,10 @@
+HTTP 302 www.gigaom.com /contact.html 9.175.114.50
+HTTP 305 www.infiniteskills.com /contact/submit.html 234.251.253.27
+HTTP 204 www.quicloud.com /index.html 244.113.246.186
+HTTP 405 console.amazon.com /services.html 91.230.42.36
+HTTP 300 flume.apache.org /index.html 133.67.25.227
+HTTP 426 console.amazon.com /support.html 111.193.169.35
+HTTP 406 www.globalknowledge.com /about.html 27.235.59.141
+HTTP 305 console.amazon.com /index.html 61.90.31.115
+HTTP 414 www.quicloud.com /contact.html 216.1.10.4
+HTTP 226 hadoop.apache.org /index.html 40.4.174.199

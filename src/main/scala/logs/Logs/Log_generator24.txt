@@ -1,0 +1,10 @@
+HTTP 502 hadoop.apache.org /support.html 190.217.245.90
+HTTP 226 www.quicloud.com /index.html 86.230.32.98
+HTTP 505 flume.apache.org /support.html 149.126.106.4
+HTTP 303 www.gigaom.com /contact.html 117.230.253.110
+HTTP 407 www.cloudera.com /about.html 108.130.251.37
+HTTP 405 www.infiniteskills.com /contact.html 8.206.120.142
+HTTP 207 www.quicloud.com /contact/submit.html 35.91.5.200
+HTTP 300 console.amazon.com /services.html 153.58.136.153
+HTTP 101 hadoop.apache.org /services.html 95.204.94.224
+HTTP 410 console.amazon.com /about.html 155.153.38.101

@@ -1,0 +1,10 @@
+HTTP 201 www.globalknowledge.com /services.html 180.183.181.174
+HTTP 403 www.globalknowledge.com /support.html 100.152.239.178
+HTTP 401 www.globalknowledge.com /services.html 3.51.211.111
+HTTP 408 www.quicloud.com /products.html 21.188.123.100
+HTTP 505 www.gigaom.com /contact.html 229.101.247.178
+HTTP 414 flume.apache.org /index.html 168.181.40.107
+HTTP 412 console.amazon.com /about.html 24.217.52.163
+HTTP 505 flume.apache.org /support.html 43.153.76.145
+HTTP 422 www.gigaom.com /about.html 246.185.195.125
+HTTP 417 www.cloudera.com /index.html 122.161.52.215

@@ -1,0 +1,10 @@
+HTTP 415 flume.apache.org /support.html 30.134.81.38
+HTTP 401 www.cloudera.com /about.html 212.2.200.116
+HTTP 412 console.amazon.com /support.html 174.28.93.200
+HTTP 424 www.cloudera.com /services.html 85.123.98.12
+HTTP 204 console.amazon.com /about.html 220.92.174.154
+HTTP 300 hadoop.apache.org /products.html 232.46.49.115
+HTTP 417 console.amazon.com /products.html 187.239.2.167
+HTTP 307 hadoop.apache.org /products.html 146.57.13.8
+HTTP 201 console.amazon.com /about.html 9.190.136.114
+HTTP 226 www.quicloud.com /products.html 50.108.222.2

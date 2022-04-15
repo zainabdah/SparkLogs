@@ -1,0 +1,10 @@
+HTTP 100 www.cloudera.com /products.html 174.127.86.234
+HTTP 304 flume.apache.org /services.html 106.176.208.83
+HTTP 504 flume.apache.org /support.html 206.46.159.103
+HTTP 503 www.infiniteskills.com /support.html 99.96.175.2
+HTTP 424 console.amazon.com /contact.html 153.147.76.39
+HTTP 405 www.cloudera.com /contact/submit.html 81.30.96.127
+HTTP 201 www.cloudera.com /contact.html 198.183.7.248
+HTTP 206 www.cloudera.com /products.html 51.192.24.81
+HTTP 205 flume.apache.org /contact.html 60.246.71.139
+HTTP 424 www.quicloud.com /index.html 209.28.218.34

@@ -1,0 +1,10 @@
+HTTP 201 console.amazon.com /products.html 234.17.47.175
+HTTP 303 www.cloudera.com /index.html 54.106.113.19
+HTTP 416 www.infiniteskills.com /index.html 26.85.72.45
+HTTP 401 hadoop.apache.org /products.html 28.205.187.93
+HTTP 510 www.infiniteskills.com /about.html 248.83.228.162
+HTTP 409 console.amazon.com /products.html 157.138.6.16
+HTTP 510 www.infiniteskills.com /contact.html 21.243.33.212
+HTTP 422 flume.apache.org /contact.html 208.136.87.73
+HTTP 101 www.infiniteskills.com /contact.html 40.64.63.122
+HTTP 412 www.infiniteskills.com /about.html 195.89.75.230

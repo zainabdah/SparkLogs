@@ -1,0 +1,10 @@
+HTTP 505 hadoop.apache.org /contact.html 130.212.136.93
+HTTP 400 www.globalknowledge.com /contact/submit.html 169.197.22.102
+HTTP 307 hadoop.apache.org /contact/submit.html 183.72.71.162
+HTTP 300 flume.apache.org /contact.html 168.72.14.137
+HTTP 226 www.gigaom.com /products.html 0.20.195.132
+HTTP 411 flume.apache.org /about.html 215.226.16.172
+HTTP 413 console.amazon.com /products.html 123.114.121.97
+HTTP 422 www.cloudera.com /contact/submit.html 219.0.38.178
+HTTP 503 www.quicloud.com /services.html 177.231.0.15
+HTTP 413 www.globalknowledge.com /services.html 8.218.224.212

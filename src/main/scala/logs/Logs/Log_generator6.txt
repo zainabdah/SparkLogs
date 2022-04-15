@@ -1,0 +1,10 @@
+HTTP 402 www.quicloud.com /contact/submit.html 197.103.42.49
+HTTP 504 console.amazon.com /about.html 111.202.168.67
+HTTP 505 www.infiniteskills.com /contact.html 24.135.225.20
+HTTP 201 www.gigaom.com /contact/submit.html 84.161.165.130
+HTTP 305 flume.apache.org /index.html 135.144.82.170
+HTTP 203 www.infiniteskills.com /about.html 46.16.227.198
+HTTP 501 hadoop.apache.org /index.html 74.143.156.167
+HTTP 307 flume.apache.org /contact.html 25.172.144.101
+HTTP 203 www.infiniteskills.com /support.html 189.164.145.47
+HTTP 502 hadoop.apache.org /index.html 166.151.94.185

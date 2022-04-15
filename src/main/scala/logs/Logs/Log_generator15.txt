@@ -1,0 +1,10 @@
+HTTP 305 console.amazon.com /contact/submit.html 6.60.55.142
+HTTP 102 www.globalknowledge.com /contact/submit.html 133.178.136.76
+HTTP 202 hadoop.apache.org /contact/submit.html 6.224.82.127
+HTTP 204 www.cloudera.com /index.html 69.181.61.168
+HTTP 101 www.quicloud.com /contact.html 215.79.129.94
+HTTP 304 hadoop.apache.org /support.html 221.41.45.133
+HTTP 417 www.gigaom.com /support.html 161.224.221.31
+HTTP 408 www.globalknowledge.com /about.html 76.14.23.51
+HTTP 423 hadoop.apache.org /services.html 175.24.19.222
+HTTP 302 console.amazon.com /support.html 147.8.44.21
